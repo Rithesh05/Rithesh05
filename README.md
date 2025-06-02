@@ -1,18 +1,81 @@
-<h1 align="center">Hi 👋, I'm V.V Rithesh</h1>
-<h3 align="center">A passionate MERN Stack Developer and problem solver with a drive for building efficient, scalable web applications.</h3>
+# 👨‍💻 V V Rithesh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rithesh05&label=Profile%20views&color=0e75b6&style=flat" alt="rithesh05" /> </p>
+**Junior Undergraduate | Computer Science & Engineering**  
+📍 Mohan Babu University  
+📧 [ritheshvellampalli05@gmail.com](mailto:ritheshvellampalli05@gmail.com)  
+📞 +91 9291592275  
+🔗 [GitHub](https://github.com/Rithesh05)  
+🔗 [LinkedIn](www.linkedin.com/in/ritheshvellampalli) <!-- Add your actual LinkedIn profile URL -->
 
-- 💬 Ask me about **MongoDB, ExpressJS, React, Node, Java**
+---
 
-- 📫 How to reach me **ritheshvellampalli05@gmail.com**
+## 🎯 Objective
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rithesh vellampalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rithesh vellampalli" height="30" width="40" /></a>
-</p>
+Highly motivated third-year computer science student with strong programming, data structures, and algorithms skills. Eager to contribute to innovative projects and learn from industry leaders through an internship opportunity.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rithesh05&show_icons=true&locale=en&layout=compact" alt="rithesh05" /></p>
+## 🎓 Education
+
+| Degree | Specialization | Institute               | Year           | CPI  |
+|--------|----------------|-------------------------|----------------|------|
+| B.Tech | CSE            | MB University           | 2022 - Present | 9.40 |
+| HSC    | PCM            | Narayana College        | 2022           | 9.08 |
+| SSC    | —              | V S R EM High School    | 2020           | 10.0 |
+
+---
+
+## 💼 Projects
+
+### 💬 Chat Bot Using Gemini API _(Mini Project)_
+- Developed a responsive chatbot interface using **HTML, CSS, JavaScript**.
+- Integrated **Gemini API** for real-time conversation with asynchronous data handling.
+
+### 📝 Blog Website with Photo Upload _(Mini Project)_
+- Built with **Express, Node.js, HTML, CSS**.
+- Implemented **photo-to-URL** conversion and **PostgreSQL** for storing image links.
+- Enabled dynamic display of uploaded photos.
+
+### 🔐 Phishing Detection Chrome Extension
+- Chrome extension for detecting fraudulent/suspicious emails using **Gemini API**.
+- Categorizes emails as **Safe**, **Suspicious**, or **Fraudulent** to enhance security.
+
+---
+
+## 🧑‍💼 Positions of Responsibility
+
+- **Coding Club Coordinator**
+  - Organized and led 5+ web design events.
+  - Managed event logistics, promotions, and student engagement.
+
+---
+
+## 🏆 Achievements & Activities
+
+- 👨‍💻 3rd place in **AI Autonomous Hackathon 2025** at Siddhartha Academy.
+- 🎨 7th rank (district level) in **Lower Diploma of Drawing**.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages**: Java, Python, C, HTML, CSS, JavaScript  
+- **Frameworks/Libraries**: Bootstrap, JQuery, NodeJS, ExpressJS  
+- **Databases**: MySQL, MongoDB  
+- **Tools**: Jupyter Notebook, VS Code, Git/GitHub  
+- **Core Subjects**: DSA, OS, Computer Networks, OOPS, DBMS, AI, ML  
+
+---
+
+## 📜 Certifications
+
+- **Java DSA** – NPTEL  
+- **Prompt Engineering** – Vanderbilt University  
+- **Python** – Infosys Springboard  
+- **Java** – Udemy  
+- **Generative AI**
+
+---
+
+_Thanks for visiting my profile! Feel free to connect or collaborate._
+
