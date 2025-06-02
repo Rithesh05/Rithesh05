@@ -11,7 +11,7 @@
 
 ## 🎯 Objective
 
-Highly motivated third-year computer science student with strong programming, data structures, and algorithms skills. Eager to contribute to innovative projects and learn from industry leaders through an internship opportunity.
+Highly motivated fourth-year computer science student with strong programming, data structures, and algorithms skills. Eager to contribute to innovative projects and learn from industry leaders.
 
 ---
 
@@ -19,7 +19,7 @@ Highly motivated third-year computer science student with strong programming, da
 
 | Degree | Specialization | Institute               | Year           | CPI  |
 |--------|----------------|-------------------------|----------------|------|
-| B.Tech | CSE            | MB University           | 2022 - Present | 9.40 |
+| B.Tech | CSE            | MB University           | 2022 - Present | 9.55 |
 | HSC    | PCM            | Narayana College        | 2022           | 9.08 |
 | SSC    | —              | V S R EM High School    | 2020           | 10.0 |
 
@@ -60,7 +60,7 @@ Highly motivated third-year computer science student with strong programming, da
 ## 🛠️ Technical Skills
 
 - **Languages**: Java, Python, C, HTML, CSS, JavaScript  
-- **Frameworks/Libraries**: Bootstrap, JQuery, NodeJS, ExpressJS  
+- **Frameworks/Libraries**: Bootstrap, JQuery, NodeJS, ExpressJS, ReactJS
 - **Databases**: MySQL, MongoDB  
 - **Tools**: Jupyter Notebook, VS Code, Git/GitHub  
 - **Core Subjects**: DSA, OS, Computer Networks, OOPS, DBMS, AI, ML  
