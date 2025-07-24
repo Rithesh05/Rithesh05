@@ -1,4 +1,4 @@
-# 👨‍💻 V V Rithesh MERN Stack and Servicenow CSA & CAD
+# 👨‍💻 V V Rithesh
 
 **Senior Undergraduate | Computer Science & Engineering**  
 📍 Mohan Babu University  
@@ -15,6 +15,22 @@
 Passionate and driven computer science student with solid programming fundamentals, hands-on MERN development skills, and a flair for building scalable web applications. Eager to innovate and grow through real-world software engineering challenges.
 
 ---
+
+
+### 🌐 MERN Stack
+- **Frontend:** React.js, HTML, CSS, Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT, bcrypt  
+- **APIs:** RESTful services, JSON, Middleware
+
+### 🛠️ ServiceNow Platform
+- **CSA Certified Developer**  
+- Hands-on experience in:
+  - Incident, Problem, and Change Management  
+  - Workflow Editor, Business Rules, Script Includes  
+  - UI Policies, Data Policies, Client Scripts  
+  - Service Catalogs and Integration 
 
 ## 🎓 Education
 
