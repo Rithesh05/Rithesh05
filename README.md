@@ -1,4 +1,4 @@
-# 👨‍💻 V V Rithesh
+# 👨‍💻 V V Rithesh MERN Stack and Servicenow CSA & CAD
 
 **Senior Undergraduate | Computer Science & Engineering**  
 📍 Mohan Babu University  
