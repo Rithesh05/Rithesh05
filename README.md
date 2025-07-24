@@ -29,7 +29,7 @@ Passionate and driven computer science student with solid programming fundamenta
 ## 💼 Experience
 
 ### 🛰️ Indian Space Research Organisation (ISRO) — Intern  
-*June 2025 – July 2025*  
+
 - Developed a real-time **aircraft data monitoring web application** in the LSSF division.
 - Built dashboards fetching live telemetry data and visualizing server responses interactively.
 
@@ -67,7 +67,7 @@ A secure note-keeping MERN app with separate frontend and backend
 ## 🧑‍💼 Leadership
 
 ### 👨‍🎨 Coding Club Coordinator — Web Design Head  
-*Jan 2024 – Present*  
+ 
 - Spearheaded 10+ event websites that boosted student engagement by 3×.  
 - Mentored 20+ juniors in React, Git, and frontend fundamentals.
 
