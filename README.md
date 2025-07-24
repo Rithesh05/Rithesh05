@@ -1,8 +1,9 @@
 # 👨‍💻 V V Rithesh
 
-**Junior Undergraduate | Computer Science & Engineering**  
+**Senior Undergraduate | Computer Science & Engineering**  
 📍 Mohan Babu University  
-📧 [ritheshvellampalli05@gmail.com](mailto:ritheshvellampalli05@gmail.com)  
+📧 [ritheshvellampalli05@gmail.com](mailto:ritheshvellampalli05@gmail.com)
+🔗 [Resume](https://drive.google.com/file/d/19wNuwFf32hZNTyn8hs7aRtjAUXIckQCh/view?usp=sharing)
 📞 +91 9291592275  
 🔗 [GitHub](https://github.com/Rithesh05)  
 🔗 [LinkedIn](www.linkedin.com/in/ritheshvellampalli) <!-- Add your actual LinkedIn profile URL -->
