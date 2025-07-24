@@ -2,81 +2,82 @@
 
 **Senior Undergraduate | Computer Science & Engineering**  
 📍 Mohan Babu University  
-📧 [ritheshvellampalli05@gmail.com](mailto:ritheshvellampalli05@gmail.com)
-🔗 [Resume](https://drive.google.com/file/d/19wNuwFf32hZNTyn8hs7aRtjAUXIckQCh/view?usp=sharing)
+📧 [ritheshvellampalli05@gmail.com](mailto:ritheshvellampalli05@gmail.com)  
 📞 +91 9291592275  
+🔗 [Resume](https://drive.google.com/file/d/19wNuwFf32hZNTyn8hs7aRtjAUXIckQCh/view?usp=sharing)  
 🔗 [GitHub](https://github.com/Rithesh05)  
-🔗 [LinkedIn](www.linkedin.com/in/ritheshvellampalli) <!-- Add your actual LinkedIn profile URL -->
+🔗 [LinkedIn](https://www.linkedin.com/in/ritheshvellampalli)
 
 ---
 
 ## 🎯 Objective
 
-Highly motivated fourth-year computer science student with strong programming, data structures, and algorithms skills. Eager to contribute to innovative projects and learn from industry leaders.
+Passionate and driven computer science student with solid programming fundamentals, hands-on MERN development skills, and a flair for building scalable web applications. Eager to innovate and grow through real-world software engineering challenges.
 
 ---
 
 ## 🎓 Education
 
-| Degree | Specialization | Institute               | Year           | CPI  |
-|--------|----------------|-------------------------|----------------|------|
-| B.Tech | CSE            | MB University           | 2022 - Present | 9.55 |
-| HSC    | PCM            | Narayana College        | 2022           | 9.08 |
-| SSC    | —              | V S R EM High School    | 2020           | 10.0 |
+| Degree | Specialization                  | Institute               | Year           | CPI  |
+|--------|----------------------------------|--------------------------|----------------|------|
+| B.Tech | Computer Science & Engineering  | Mohan Babu University    | 2022 – Present | 9.51 |
+| HSC    | PCM                              | Narayana Junior College  | 2022           | 9.08 |
+| SSC    | —                                | V S R EM High School     | 2020           | 10.0 |
 
 ---
 
-## 💼 Projects
+## 💼 Experience
 
-### 💬 Chat Bot Using Gemini API _(Mini Project)_
-- Developed a responsive chatbot interface using **HTML, CSS, JavaScript**.
-- Integrated **Gemini API** for real-time conversation with asynchronous data handling.
-
-### 📝 Blog Website with Photo Upload _(Mini Project)_
-- Built with **Express, Node.js, HTML, CSS**.
-- Implemented **photo-to-URL** conversion and **PostgreSQL** for storing image links.
-- Enabled dynamic display of uploaded photos.
-
-### 🔐 Phishing Detection Chrome Extension
-- Chrome extension for detecting fraudulent/suspicious emails using **Gemini API**.
-- Categorizes emails as **Safe**, **Suspicious**, or **Fraudulent** to enhance security.
-
----
-
-## 🧑‍💼 Positions of Responsibility
-
-- **Coding Club Coordinator**
-  - Organized and led 5+ web design events.
-  - Managed event logistics, promotions, and student engagement.
-
----
-
-## 🏆 Achievements & Activities
-
-- 👨‍💻 3rd place in **AI Autonomous Hackathon 2025** at Siddhartha Academy.
-- 🎨 7th rank (district level) in **Lower Diploma of Drawing**.
+### 🛰️ Indian Space Research Organisation (ISRO) — Intern  
+*June 2025 – July 2025*  
+- Developed a real-time **aircraft data monitoring web application** in the LSSF division.
+- Built dashboards fetching live telemetry data and visualizing server responses interactively.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Java, Python, C, HTML, CSS, JavaScript  
-- **Frameworks/Libraries**: Bootstrap, JQuery, NodeJS, ExpressJS, ReactJS
-- **Databases**: MySQL, MongoDB  
-- **Tools**: Jupyter Notebook, VS Code, Git/GitHub  
-- **Core Subjects**: DSA, OS, Computer Networks, OOPS, DBMS, AI, ML  
+- **Languages:** Java, Python, C, HTML, CSS, JavaScript  
+- **Frameworks/Libraries:** React.js, Bootstrap, JQuery, Node.js, Express.js  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git/GitHub, VS Code, Jupyter Notebook  
+- **Core Subjects:** DSA, OS, CN, DBMS, OOPS, AI, ML  
+- **Certifications:** CSA, CAD (ServiceNow), Java DSA (NPTEL), Prompt Engineering (Vanderbilt), Python (Infosys), Java (Udemy), Generative AI
 
 ---
 
-## 📜 Certifications
+## 🧠 Projects
 
-- **Java DSA** – NPTEL  
-- **Prompt Engineering** – Vanderbilt University  
-- **Python** – Infosys Springboard  
-- **Java** – Udemy  
-- **Generative AI**
+### 📓 [Cloud Based Notebook](https://github.com/Rithesh05/Cloud-based-notebook)
+A secure note-keeping MERN app with separate frontend and backend  
+- Authenticated user access using **JWT** and **bcrypt** encryption.  
+- Created RESTful APIs with middleware and Mongoose schema validation.  
+- Real-time React UI for managing personal notes with role separation.
+
+### 📰 Blog Website with Photo Upload
+- Built with **Node.js, Express, PostgreSQL**, and supports dynamic content management.  
+- Uploads images via base64 encoding and renders blogs with user content.
+
+### 🛡️ [Phishing Detection Chrome Extension](https://github.com/Rithesh05/phishing-Email)
+- Detects phishing links using **Gemini API**, categorizing them as Safe, Suspicious, or Fraudulent.  
+- Enhances browsing security with live feedback in the browser UI.
 
 ---
 
-_Thanks for visiting my profile! Feel free to connect or collaborate._
+## 🧑‍💼 Leadership
 
+### 👨‍🎨 Coding Club Coordinator — Web Design Head  
+*Jan 2024 – Present*  
+- Spearheaded 10+ event websites that boosted student engagement by 3×.  
+- Mentored 20+ juniors in React, Git, and frontend fundamentals.
+
+---
+
+## 🏆 Achievements
+
+- 🥉 3rd place – AI Autonomous Hackathon 2025 (Siddhartha Academy)  
+- 🎨 District Rank 7 – Lower Diploma of Drawing
+
+---
+
+_Thanks for checking out my profile! Let’s connect and collaborate on impactful tech 🚀_
